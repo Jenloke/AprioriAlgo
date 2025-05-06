@@ -1,0 +1,735 @@
+lhs,rhs,support,confidence,lift
+green tea,almonds,1.98%,13.33%,6.733333333333333
+almonds,green tea,1.98%,100.00%,6.733333333333333
+honey,avocado,1.98%,40.00%,5.05
+avocado,honey,1.98%,25.00%,5.05
+shrimp,avocado,1.98%,33.33%,4.208333333333334
+avocado,shrimp,1.98%,25.00%,4.208333333333334
+avocado,soup,1.98%,25.00%,2.805555555555556
+soup,avocado,1.98%,22.22%,2.805555555555556
+mineral water,black tea,1.98%,7.69%,2.58974358974359
+black tea,mineral water,1.98%,66.67%,2.58974358974359
+salmon,black tea,1.98%,40.00%,13.466666666666667
+black tea,salmon,1.98%,66.67%,13.466666666666667
+black tea,spaghetti,1.98%,66.67%,3.3666666666666667
+spaghetti,black tea,1.98%,10.00%,3.3666666666666667
+green tea,body spray,2.97%,20.00%,5.05
+body spray,green tea,2.97%,75.00%,5.05
+ham,body spray,1.98%,66.67%,16.833333333333336
+body spray,ham,1.98%,50.00%,16.833333333333336
+pancakes,body spray,1.98%,100.00%,25.25
+body spray,pancakes,1.98%,50.00%,25.25
+body spray,soup,2.97%,75.00%,8.416666666666668
+soup,body spray,2.97%,33.33%,8.416666666666666
+green tea,brownies,1.98%,13.33%,6.733333333333333
+brownies,green tea,1.98%,100.00%,6.733333333333333
+cooking oil,burgers,1.98%,50.00%,5.05
+burgers,cooking oil,1.98%,20.00%,5.05
+burgers,eggs,4.95%,50.00%,2.6578947368421053
+eggs,burgers,4.95%,26.32%,2.657894736842105
+burgers,french fries,2.97%,30.00%,2.164285714285714
+french fries,burgers,2.97%,21.43%,2.1642857142857137
+burgers,grated cheese,1.98%,20.00%,5.05
+grated cheese,burgers,1.98%,50.00%,5.05
+burgers,green tea,3.96%,40.00%,2.6933333333333334
+green tea,burgers,3.96%,26.67%,2.6933333333333334
+herb & pepper,burgers,1.98%,40.00%,4.039999999999999
+burgers,herb & pepper,1.98%,20.00%,4.039999999999999
+meatballs,burgers,1.98%,50.00%,5.05
+burgers,meatballs,1.98%,20.00%,5.05
+pasta,burgers,1.98%,50.00%,5.05
+burgers,pasta,1.98%,20.00%,5.05
+burgers,shrimp,1.98%,20.00%,3.3666666666666667
+shrimp,burgers,1.98%,33.33%,3.3666666666666667
+chocolate,chicken,1.98%,15.38%,3.1076923076923078
+chicken,chocolate,1.98%,40.00%,3.1076923076923073
+chicken,eggs,1.98%,40.00%,2.126315789473684
+eggs,chicken,1.98%,10.53%,2.126315789473684
+mineral water,chicken,2.97%,11.54%,2.3307692307692305
+chicken,mineral water,2.97%,60.00%,2.3307692307692305
+chocolate,frozen vegetables,2.97%,23.08%,2.9134615384615383
+frozen vegetables,chocolate,2.97%,37.50%,2.9134615384615383
+ground beef,chocolate,1.98%,33.33%,2.58974358974359
+chocolate,ground beef,1.98%,15.38%,2.58974358974359
+milk,chocolate,1.98%,28.57%,2.2197802197802194
+chocolate,milk,1.98%,15.38%,2.21978021978022
+chocolate,shrimp,1.98%,15.38%,2.58974358974359
+shrimp,chocolate,1.98%,33.33%,2.58974358974359
+mineral water,cider,1.98%,7.69%,3.8846153846153846
+cider,mineral water,1.98%,100.00%,3.8846153846153846
+cooking oil,eggs,1.98%,50.00%,2.6578947368421053
+eggs,cooking oil,1.98%,10.53%,2.657894736842105
+mineral water,cooking oil,2.97%,11.54%,2.9134615384615383
+cooking oil,mineral water,2.97%,75.00%,2.9134615384615383
+turkey,cooking oil,1.98%,22.22%,5.611111111111112
+cooking oil,turkey,1.98%,50.00%,5.611111111111112
+mineral water,cottage cheese,1.98%,7.69%,3.8846153846153846
+cottage cheese,mineral water,1.98%,100.00%,3.8846153846153846
+fresh tuna,eggs,1.98%,50.00%,2.6578947368421053
+eggs,fresh tuna,1.98%,10.53%,2.657894736842105
+herb & pepper,eggs,1.98%,40.00%,2.126315789473684
+eggs,herb & pepper,1.98%,10.53%,2.126315789473684
+meatballs,eggs,1.98%,50.00%,2.6578947368421053
+eggs,meatballs,1.98%,10.53%,2.657894736842105
+pasta,eggs,1.98%,50.00%,2.6578947368421053
+eggs,pasta,1.98%,10.53%,2.657894736842105
+turkey,eggs,3.96%,44.44%,2.3625730994152048
+eggs,turkey,3.96%,21.05%,2.3625730994152048
+energy bar,french fries,1.98%,28.57%,2.061224489795918
+french fries,energy bar,1.98%,14.29%,2.061224489795918
+energy bar,milk,1.98%,28.57%,4.122448979591836
+milk,energy bar,1.98%,28.57%,4.122448979591836
+mineral water,energy bar,3.96%,15.38%,2.21978021978022
+energy bar,mineral water,3.96%,57.14%,2.2197802197802194
+energy drink,green tea,1.98%,50.00%,3.3666666666666667
+green tea,energy drink,1.98%,13.33%,3.3666666666666667
+frozen smoothie,escalope,1.98%,50.00%,7.2142857142857135
+escalope,frozen smoothie,1.98%,28.57%,7.2142857142857135
+salmon,escalope,1.98%,40.00%,5.7714285714285705
+escalope,salmon,1.98%,28.57%,5.7714285714285705
+escalope,spaghetti,2.97%,42.86%,2.1642857142857137
+spaghetti,escalope,2.97%,15.00%,2.164285714285714
+turkey,extra dark chocolate,1.98%,22.22%,11.222222222222223
+extra dark chocolate,turkey,1.98%,100.00%,11.222222222222223
+milk,french fries,1.98%,28.57%,2.061224489795918
+french fries,milk,1.98%,14.29%,2.061224489795918
+fresh tuna,frozen vegetables,1.98%,50.00%,6.3125
+frozen vegetables,fresh tuna,1.98%,25.00%,6.3125
+mineral water,fresh tuna,3.96%,15.38%,3.8846153846153846
+fresh tuna,mineral water,3.96%,100.00%,3.8846153846153846
+fresh tuna,spaghetti,2.97%,75.00%,3.7874999999999996
+spaghetti,fresh tuna,2.97%,15.00%,3.7874999999999996
+fresh tuna,tomatoes,1.98%,50.00%,16.833333333333336
+tomatoes,fresh tuna,1.98%,66.67%,16.833333333333336
+turkey,fresh tuna,1.98%,22.22%,5.611111111111112
+fresh tuna,turkey,1.98%,50.00%,5.611111111111112
+frozen smoothie,honey,1.98%,50.00%,10.1
+honey,frozen smoothie,1.98%,40.00%,10.1
+frozen smoothie,mineral water,2.97%,75.00%,2.9134615384615383
+mineral water,frozen smoothie,2.97%,11.54%,2.9134615384615383
+frozen smoothie,salmon,1.98%,50.00%,10.1
+salmon,frozen smoothie,1.98%,40.00%,10.1
+frozen smoothie,spaghetti,1.98%,50.00%,2.525
+spaghetti,frozen smoothie,1.98%,10.00%,2.525
+green tea,frozen vegetables,2.97%,20.00%,2.525
+frozen vegetables,green tea,2.97%,37.50%,2.525
+ground beef,frozen vegetables,1.98%,33.33%,4.208333333333334
+frozen vegetables,ground beef,1.98%,25.00%,4.208333333333334
+frozen vegetables,spaghetti,4.95%,62.50%,3.15625
+spaghetti,frozen vegetables,4.95%,25.00%,3.15625
+turkey,frozen vegetables,2.97%,33.33%,4.208333333333333
+frozen vegetables,turkey,2.97%,37.50%,4.208333333333334
+herb & pepper,grated cheese,1.98%,40.00%,10.1
+grated cheese,herb & pepper,1.98%,50.00%,10.1
+white wine,grated cheese,1.98%,66.67%,16.833333333333336
+grated cheese,white wine,1.98%,50.00%,16.833333333333336
+pancakes,green tea,1.98%,100.00%,6.733333333333333
+green tea,pancakes,1.98%,13.33%,6.733333333333333
+green tea,soup,2.97%,20.00%,2.2444444444444445
+soup,green tea,2.97%,33.33%,2.2444444444444445
+ground beef,milk,1.98%,33.33%,4.809523809523809
+milk,ground beef,1.98%,28.57%,4.809523809523809
+mineral water,ground beef,4.95%,19.23%,3.2371794871794877
+ground beef,mineral water,4.95%,83.33%,3.2371794871794872
+ground beef,spaghetti,3.96%,66.67%,3.3666666666666667
+spaghetti,ground beef,3.96%,20.00%,3.3666666666666667
+ground beef,whole wheat pasta,1.98%,33.33%,11.222222222222223
+whole wheat pasta,ground beef,1.98%,66.67%,11.222222222222223
+mineral water,herb & pepper,2.97%,11.54%,2.3307692307692305
+herb & pepper,mineral water,2.97%,60.00%,2.3307692307692305
+herb & pepper,tomato sauce,1.98%,40.00%,13.466666666666667
+tomato sauce,herb & pepper,1.98%,66.67%,13.466666666666667
+honey,low fat yogurt,1.98%,40.00%,5.05
+low fat yogurt,honey,1.98%,25.00%,5.05
+honey,shrimp,2.97%,60.00%,10.1
+shrimp,honey,2.97%,50.00%,10.1
+soup,hot dogs,1.98%,22.22%,11.222222222222223
+hot dogs,soup,1.98%,100.00%,11.222222222222223
+shrimp,low fat yogurt,1.98%,33.33%,4.208333333333334
+low fat yogurt,shrimp,1.98%,25.00%,4.208333333333334
+milk,soup,1.98%,28.57%,3.2063492063492065
+soup,milk,1.98%,22.22%,3.2063492063492065
+milk,spaghetti,3.96%,57.14%,2.8857142857142852
+spaghetti,milk,3.96%,20.00%,2.8857142857142852
+mineral water,olive oil,2.97%,11.54%,3.8846153846153846
+olive oil,mineral water,2.97%,100.00%,3.8846153846153846
+mineral water,salmon,3.96%,15.38%,3.1076923076923078
+salmon,mineral water,3.96%,80.00%,3.1076923076923073
+mineral water,tomatoes,1.98%,7.69%,2.58974358974359
+tomatoes,mineral water,1.98%,66.67%,2.58974358974359
+mineral water,whole wheat rice,2.97%,11.54%,3.8846153846153846
+whole wheat rice,mineral water,2.97%,100.00%,3.8846153846153846
+mineral water,yams,1.98%,7.69%,3.8846153846153846
+yams,mineral water,1.98%,100.00%,3.8846153846153846
+shrimp,olive oil,1.98%,33.33%,11.222222222222223
+olive oil,shrimp,1.98%,66.67%,11.222222222222223
+olive oil,spaghetti,1.98%,66.67%,3.3666666666666667
+spaghetti,olive oil,1.98%,10.00%,3.3666666666666667
+pasta,shrimp,3.96%,100.00%,16.833333333333336
+shrimp,pasta,3.96%,66.67%,16.833333333333336
+salmon,spaghetti,2.97%,60.00%,3.03
+spaghetti,salmon,2.97%,15.00%,3.03
+soup,shallot,1.98%,22.22%,7.481481481481483
+shallot,soup,1.98%,66.67%,7.481481481481483
+spaghetti,tomatoes,1.98%,10.00%,3.3666666666666667
+tomatoes,spaghetti,1.98%,66.67%,3.3666666666666667
+white wine,spaghetti,1.98%,66.67%,3.3666666666666667
+spaghetti,white wine,1.98%,10.00%,3.3666666666666667
+turkey,tomatoes,1.98%,22.22%,7.481481481481483
+tomatoes,turkey,1.98%,66.67%,7.481481481481483
+"honey, shrimp",avocado,1.98%,66.67%,8.416666666666668
+"honey, avocado",shrimp,1.98%,100.00%,16.833333333333336
+"shrimp, avocado",honey,1.98%,100.00%,20.2
+honey,"shrimp, avocado",1.98%,40.00%,20.2
+shrimp,"honey, avocado",1.98%,33.33%,16.833333333333336
+avocado,"honey, shrimp",1.98%,25.00%,8.416666666666668
+"mineral water, salmon",black tea,1.98%,50.00%,16.833333333333336
+"mineral water, black tea",salmon,1.98%,100.00%,20.2
+"salmon, black tea",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"salmon, black tea",1.98%,7.69%,3.8846153846153846
+salmon,"mineral water, black tea",1.98%,40.00%,20.2
+black tea,"mineral water, salmon",1.98%,66.67%,16.833333333333336
+"mineral water, black tea",spaghetti,1.98%,100.00%,5.05
+"mineral water, spaghetti",black tea,1.98%,25.00%,8.416666666666668
+"black tea, spaghetti",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"black tea, spaghetti",1.98%,7.69%,3.8846153846153846
+black tea,"mineral water, spaghetti",1.98%,66.67%,8.416666666666668
+spaghetti,"mineral water, black tea",1.98%,10.00%,5.05
+"salmon, black tea",spaghetti,1.98%,100.00%,5.05
+"salmon, spaghetti",black tea,1.98%,66.67%,22.444444444444446
+"black tea, spaghetti",salmon,1.98%,100.00%,20.2
+salmon,"black tea, spaghetti",1.98%,40.00%,20.2
+black tea,"salmon, spaghetti",1.98%,66.67%,22.444444444444446
+spaghetti,"salmon, black tea",1.98%,10.00%,5.05
+"pancakes, green tea",body spray,1.98%,100.00%,25.25
+"pancakes, body spray",green tea,1.98%,100.00%,6.733333333333333
+"green tea, body spray",pancakes,1.98%,66.67%,33.66666666666667
+pancakes,"green tea, body spray",1.98%,100.00%,33.66666666666667
+green tea,"pancakes, body spray",1.98%,13.33%,6.733333333333333
+body spray,"pancakes, green tea",1.98%,50.00%,25.25
+"green tea, body spray",soup,1.98%,66.67%,7.481481481481483
+"green tea, soup",body spray,1.98%,66.67%,16.833333333333336
+"body spray, soup",green tea,1.98%,66.67%,4.48888888888889
+green tea,"body spray, soup",1.98%,13.33%,4.488888888888889
+body spray,"green tea, soup",1.98%,50.00%,16.833333333333336
+soup,"green tea, body spray",1.98%,22.22%,7.481481481481483
+"cooking oil, burgers",eggs,1.98%,100.00%,5.315789473684211
+"cooking oil, eggs",burgers,1.98%,100.00%,10.1
+"burgers, eggs",cooking oil,1.98%,40.00%,10.1
+cooking oil,"burgers, eggs",1.98%,50.00%,10.1
+burgers,"cooking oil, eggs",1.98%,20.00%,10.1
+eggs,"cooking oil, burgers",1.98%,10.53%,5.31578947368421
+"mineral water, cooking oil",burgers,1.98%,66.67%,6.733333333333333
+"mineral water, burgers",cooking oil,1.98%,66.67%,16.833333333333336
+"cooking oil, burgers",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"cooking oil, burgers",1.98%,7.69%,3.8846153846153846
+cooking oil,"mineral water, burgers",1.98%,50.00%,16.833333333333336
+burgers,"mineral water, cooking oil",1.98%,20.00%,6.733333333333333
+"herb & pepper, burgers",eggs,1.98%,100.00%,5.315789473684211
+"herb & pepper, eggs",burgers,1.98%,100.00%,10.1
+"burgers, eggs",herb & pepper,1.98%,40.00%,8.079999999999998
+herb & pepper,"burgers, eggs",1.98%,40.00%,8.079999999999998
+burgers,"herb & pepper, eggs",1.98%,20.00%,10.1
+eggs,"herb & pepper, burgers",1.98%,10.53%,5.31578947368421
+"meatballs, burgers",eggs,1.98%,100.00%,5.315789473684211
+"meatballs, eggs",burgers,1.98%,100.00%,10.1
+"burgers, eggs",meatballs,1.98%,40.00%,10.1
+meatballs,"burgers, eggs",1.98%,50.00%,10.1
+burgers,"meatballs, eggs",1.98%,20.00%,10.1
+eggs,"meatballs, burgers",1.98%,10.53%,5.31578947368421
+"mineral water, burgers",eggs,2.97%,100.00%,5.315789473684211
+"mineral water, eggs",burgers,2.97%,42.86%,4.328571428571427
+"burgers, eggs",mineral water,2.97%,60.00%,2.3307692307692305
+mineral water,"burgers, eggs",2.97%,11.54%,2.3307692307692305
+burgers,"mineral water, eggs",2.97%,30.00%,4.328571428571428
+eggs,"mineral water, burgers",2.97%,15.79%,5.315789473684211
+"burgers, green tea",french fries,2.97%,75.00%,5.410714285714286
+"burgers, french fries",green tea,2.97%,100.00%,6.733333333333333
+"green tea, french fries",burgers,2.97%,75.00%,7.574999999999999
+burgers,"green tea, french fries",2.97%,30.00%,7.574999999999999
+green tea,"burgers, french fries",2.97%,20.00%,6.733333333333334
+french fries,"burgers, green tea",2.97%,21.43%,5.410714285714285
+"mineral water, herb & pepper",burgers,1.98%,66.67%,6.733333333333333
+"mineral water, burgers",herb & pepper,1.98%,66.67%,13.466666666666667
+"herb & pepper, burgers",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"herb & pepper, burgers",1.98%,7.69%,3.8846153846153846
+herb & pepper,"mineral water, burgers",1.98%,40.00%,13.466666666666667
+burgers,"mineral water, herb & pepper",1.98%,20.00%,6.733333333333333
+"pasta, burgers",shrimp,1.98%,100.00%,16.833333333333336
+"pasta, shrimp",burgers,1.98%,50.00%,5.05
+"burgers, shrimp",pasta,1.98%,100.00%,25.25
+pasta,"burgers, shrimp",1.98%,50.00%,25.25
+burgers,"pasta, shrimp",1.98%,20.00%,5.05
+shrimp,"pasta, burgers",1.98%,33.33%,16.833333333333336
+"mineral water, chicken",eggs,1.98%,66.67%,3.5438596491228074
+"mineral water, eggs",chicken,1.98%,28.57%,5.7714285714285705
+"chicken, eggs",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"chicken, eggs",1.98%,7.69%,3.8846153846153846
+chicken,"mineral water, eggs",1.98%,40.00%,5.7714285714285705
+eggs,"mineral water, chicken",1.98%,10.53%,3.543859649122807
+"mineral water, chocolate",eggs,1.98%,40.00%,2.126315789473684
+"mineral water, eggs",chocolate,1.98%,28.57%,2.2197802197802194
+"chocolate, eggs",mineral water,1.98%,66.67%,2.58974358974359
+mineral water,"chocolate, eggs",1.98%,7.69%,2.58974358974359
+chocolate,"mineral water, eggs",1.98%,15.38%,2.21978021978022
+eggs,"mineral water, chocolate",1.98%,10.53%,2.126315789473684
+"ground beef, chocolate",frozen vegetables,1.98%,100.00%,12.625
+"ground beef, frozen vegetables",chocolate,1.98%,100.00%,7.769230769230769
+"chocolate, frozen vegetables",ground beef,1.98%,66.67%,11.222222222222223
+ground beef,"chocolate, frozen vegetables",1.98%,33.33%,11.222222222222223
+chocolate,"ground beef, frozen vegetables",1.98%,15.38%,7.769230769230769
+frozen vegetables,"ground beef, chocolate",1.98%,25.00%,12.625
+"chocolate, frozen vegetables",spaghetti,1.98%,66.67%,3.3666666666666667
+"chocolate, spaghetti",frozen vegetables,1.98%,50.00%,6.3125
+"frozen vegetables, spaghetti",chocolate,1.98%,40.00%,3.1076923076923073
+chocolate,"frozen vegetables, spaghetti",1.98%,15.38%,3.1076923076923078
+frozen vegetables,"chocolate, spaghetti",1.98%,25.00%,6.3125
+spaghetti,"chocolate, frozen vegetables",1.98%,10.00%,3.3666666666666667
+"chocolate, green tea",spaghetti,1.98%,100.00%,5.05
+"chocolate, spaghetti",green tea,1.98%,50.00%,3.3666666666666667
+"green tea, spaghetti",chocolate,1.98%,40.00%,3.1076923076923073
+chocolate,"green tea, spaghetti",1.98%,15.38%,3.1076923076923078
+green tea,"chocolate, spaghetti",1.98%,13.33%,3.3666666666666667
+spaghetti,"chocolate, green tea",1.98%,10.00%,5.05
+"ground beef, chocolate",spaghetti,1.98%,100.00%,5.05
+"ground beef, spaghetti",chocolate,1.98%,50.00%,3.8846153846153846
+"chocolate, spaghetti",ground beef,1.98%,50.00%,8.416666666666668
+ground beef,"chocolate, spaghetti",1.98%,33.33%,8.416666666666668
+chocolate,"ground beef, spaghetti",1.98%,15.38%,3.8846153846153846
+spaghetti,"ground beef, chocolate",1.98%,10.00%,5.05
+"mineral water, cooking oil",eggs,1.98%,66.67%,3.5438596491228074
+"mineral water, eggs",cooking oil,1.98%,28.57%,7.2142857142857135
+"cooking oil, eggs",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"cooking oil, eggs",1.98%,7.69%,3.8846153846153846
+cooking oil,"mineral water, eggs",1.98%,50.00%,7.2142857142857135
+eggs,"mineral water, cooking oil",1.98%,10.53%,3.543859649122807
+"turkey, mineral water",cooking oil,1.98%,50.00%,12.625
+"turkey, cooking oil",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, cooking oil",turkey,1.98%,66.67%,7.481481481481483
+turkey,"mineral water, cooking oil",1.98%,22.22%,7.481481481481483
+mineral water,"turkey, cooking oil",1.98%,7.69%,3.8846153846153846
+cooking oil,"turkey, mineral water",1.98%,50.00%,12.625
+"mineral water, fresh tuna",eggs,1.98%,50.00%,2.6578947368421053
+"mineral water, eggs",fresh tuna,1.98%,28.57%,7.2142857142857135
+"fresh tuna, eggs",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"fresh tuna, eggs",1.98%,7.69%,3.8846153846153846
+fresh tuna,"mineral water, eggs",1.98%,50.00%,7.2142857142857135
+eggs,"mineral water, fresh tuna",1.98%,10.53%,2.657894736842105
+"mineral water, herb & pepper",eggs,1.98%,66.67%,3.5438596491228074
+"mineral water, eggs",herb & pepper,1.98%,28.57%,5.7714285714285705
+"herb & pepper, eggs",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"herb & pepper, eggs",1.98%,7.69%,3.8846153846153846
+herb & pepper,"mineral water, eggs",1.98%,40.00%,5.7714285714285705
+eggs,"mineral water, herb & pepper",1.98%,10.53%,3.543859649122807
+"spaghetti, eggs",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"spaghetti, eggs",1.98%,7.69%,3.8846153846153846
+"turkey, mineral water",eggs,1.98%,50.00%,2.6578947368421053
+"mineral water, eggs",turkey,1.98%,28.57%,3.2063492063492065
+turkey,"mineral water, eggs",1.98%,22.22%,3.2063492063492065
+eggs,"turkey, mineral water",1.98%,10.53%,2.657894736842105
+"pasta, shrimp",eggs,1.98%,50.00%,2.6578947368421053
+"pasta, eggs",shrimp,1.98%,100.00%,16.833333333333336
+"shrimp, eggs",pasta,1.98%,100.00%,25.25
+pasta,"shrimp, eggs",1.98%,50.00%,25.25
+shrimp,"pasta, eggs",1.98%,33.33%,16.833333333333336
+eggs,"pasta, shrimp",1.98%,10.53%,2.657894736842105
+"mineral water, energy bar",milk,1.98%,50.00%,7.2142857142857135
+"mineral water, milk",energy bar,1.98%,66.67%,9.619047619047619
+"energy bar, milk",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"energy bar, milk",1.98%,7.69%,3.8846153846153846
+energy bar,"mineral water, milk",1.98%,28.57%,9.619047619047619
+milk,"mineral water, energy bar",1.98%,28.57%,7.2142857142857135
+"mineral water, energy bar",spaghetti,1.98%,50.00%,2.525
+"mineral water, spaghetti",energy bar,1.98%,25.00%,3.6071428571428568
+"energy bar, spaghetti",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"energy bar, spaghetti",1.98%,7.69%,3.8846153846153846
+energy bar,"mineral water, spaghetti",1.98%,28.57%,3.6071428571428568
+spaghetti,"mineral water, energy bar",1.98%,10.00%,2.525
+"frozen smoothie, mineral water",escalope,1.98%,66.67%,9.619047619047619
+"frozen smoothie, escalope",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, escalope",frozen smoothie,1.98%,100.00%,25.25
+frozen smoothie,"mineral water, escalope",1.98%,50.00%,25.25
+mineral water,"frozen smoothie, escalope",1.98%,7.69%,3.8846153846153846
+escalope,"frozen smoothie, mineral water",1.98%,28.57%,9.619047619047619
+"frozen smoothie, escalope",spaghetti,1.98%,100.00%,5.05
+"frozen smoothie, spaghetti",escalope,1.98%,100.00%,14.428571428571427
+"escalope, spaghetti",frozen smoothie,1.98%,66.67%,16.833333333333336
+frozen smoothie,"escalope, spaghetti",1.98%,50.00%,16.833333333333336
+escalope,"frozen smoothie, spaghetti",1.98%,28.57%,14.428571428571427
+spaghetti,"frozen smoothie, escalope",1.98%,10.00%,5.05
+"mineral water, escalope",spaghetti,1.98%,100.00%,5.05
+"mineral water, spaghetti",escalope,1.98%,25.00%,3.6071428571428568
+"escalope, spaghetti",mineral water,1.98%,66.67%,2.58974358974359
+mineral water,"escalope, spaghetti",1.98%,7.69%,2.58974358974359
+escalope,"mineral water, spaghetti",1.98%,28.57%,3.6071428571428568
+spaghetti,"mineral water, escalope",1.98%,10.00%,5.05
+"salmon, escalope",spaghetti,1.98%,100.00%,5.05
+"salmon, spaghetti",escalope,1.98%,66.67%,9.619047619047619
+"escalope, spaghetti",salmon,1.98%,66.67%,13.466666666666667
+salmon,"escalope, spaghetti",1.98%,40.00%,13.466666666666667
+escalope,"salmon, spaghetti",1.98%,28.57%,9.619047619047619
+spaghetti,"salmon, escalope",1.98%,10.00%,5.05
+"mineral water, fresh tuna",frozen vegetables,1.98%,50.00%,6.3125
+"mineral water, frozen vegetables",fresh tuna,1.98%,50.00%,12.625
+"fresh tuna, frozen vegetables",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"fresh tuna, frozen vegetables",1.98%,7.69%,3.8846153846153846
+fresh tuna,"mineral water, frozen vegetables",1.98%,50.00%,12.625
+frozen vegetables,"mineral water, fresh tuna",1.98%,25.00%,6.3125
+"fresh tuna, frozen vegetables",spaghetti,1.98%,100.00%,5.05
+"fresh tuna, spaghetti",frozen vegetables,1.98%,66.67%,8.416666666666668
+"frozen vegetables, spaghetti",fresh tuna,1.98%,40.00%,10.1
+fresh tuna,"frozen vegetables, spaghetti",1.98%,50.00%,10.1
+frozen vegetables,"fresh tuna, spaghetti",1.98%,25.00%,8.416666666666668
+spaghetti,"fresh tuna, frozen vegetables",1.98%,10.00%,5.05
+"mineral water, fresh tuna",spaghetti,2.97%,75.00%,3.7874999999999996
+"mineral water, spaghetti",fresh tuna,2.97%,37.50%,9.46875
+"fresh tuna, spaghetti",mineral water,2.97%,100.00%,3.8846153846153846
+mineral water,"fresh tuna, spaghetti",2.97%,11.54%,3.8846153846153846
+fresh tuna,"mineral water, spaghetti",2.97%,75.00%,9.46875
+spaghetti,"mineral water, fresh tuna",2.97%,15.00%,3.7874999999999996
+"mineral water, fresh tuna",tomatoes,1.98%,50.00%,16.833333333333336
+"mineral water, tomatoes",fresh tuna,1.98%,100.00%,25.25
+"fresh tuna, tomatoes",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"fresh tuna, tomatoes",1.98%,7.69%,3.8846153846153846
+fresh tuna,"mineral water, tomatoes",1.98%,50.00%,25.25
+tomatoes,"mineral water, fresh tuna",1.98%,66.67%,16.833333333333336
+"turkey, mineral water",fresh tuna,1.98%,50.00%,12.625
+"turkey, fresh tuna",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, fresh tuna",turkey,1.98%,50.00%,5.611111111111112
+turkey,"mineral water, fresh tuna",1.98%,22.22%,5.611111111111112
+mineral water,"turkey, fresh tuna",1.98%,7.69%,3.8846153846153846
+fresh tuna,"turkey, mineral water",1.98%,50.00%,12.625
+"fresh tuna, spaghetti",tomatoes,1.98%,66.67%,22.444444444444446
+"fresh tuna, tomatoes",spaghetti,1.98%,100.00%,5.05
+"spaghetti, tomatoes",fresh tuna,1.98%,100.00%,25.25
+fresh tuna,"spaghetti, tomatoes",1.98%,50.00%,25.25
+spaghetti,"fresh tuna, tomatoes",1.98%,10.00%,5.05
+tomatoes,"fresh tuna, spaghetti",1.98%,66.67%,22.444444444444446
+"turkey, fresh tuna",spaghetti,1.98%,100.00%,5.05
+"turkey, spaghetti",fresh tuna,1.98%,100.00%,25.25
+"fresh tuna, spaghetti",turkey,1.98%,66.67%,7.481481481481483
+turkey,"fresh tuna, spaghetti",1.98%,22.22%,7.481481481481483
+fresh tuna,"turkey, spaghetti",1.98%,50.00%,25.25
+spaghetti,"turkey, fresh tuna",1.98%,10.00%,5.05
+"turkey, fresh tuna",tomatoes,1.98%,100.00%,33.66666666666667
+"turkey, tomatoes",fresh tuna,1.98%,100.00%,25.25
+"fresh tuna, tomatoes",turkey,1.98%,100.00%,11.222222222222223
+turkey,"fresh tuna, tomatoes",1.98%,22.22%,11.222222222222223
+fresh tuna,"turkey, tomatoes",1.98%,50.00%,25.25
+tomatoes,"turkey, fresh tuna",1.98%,66.67%,33.66666666666667
+"frozen smoothie, honey",mineral water,1.98%,100.00%,3.8846153846153846
+"frozen smoothie, mineral water",honey,1.98%,66.67%,13.466666666666667
+"mineral water, honey",frozen smoothie,1.98%,100.00%,25.25
+frozen smoothie,"mineral water, honey",1.98%,50.00%,25.25
+honey,"frozen smoothie, mineral water",1.98%,40.00%,13.466666666666667
+mineral water,"frozen smoothie, honey",1.98%,7.69%,3.8846153846153846
+"frozen smoothie, mineral water",salmon,1.98%,66.67%,13.466666666666667
+"frozen smoothie, salmon",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, salmon",frozen smoothie,1.98%,50.00%,12.625
+frozen smoothie,"mineral water, salmon",1.98%,50.00%,12.625
+mineral water,"frozen smoothie, salmon",1.98%,7.69%,3.8846153846153846
+salmon,"frozen smoothie, mineral water",1.98%,40.00%,13.466666666666667
+"frozen smoothie, mineral water",spaghetti,1.98%,66.67%,3.3666666666666667
+"frozen smoothie, spaghetti",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, spaghetti",frozen smoothie,1.98%,25.00%,6.3125
+frozen smoothie,"mineral water, spaghetti",1.98%,50.00%,6.3125
+mineral water,"frozen smoothie, spaghetti",1.98%,7.69%,3.8846153846153846
+spaghetti,"frozen smoothie, mineral water",1.98%,10.00%,3.3666666666666667
+"green tea, frozen vegetables",spaghetti,1.98%,66.67%,3.3666666666666667
+"green tea, spaghetti",frozen vegetables,1.98%,40.00%,5.05
+"frozen vegetables, spaghetti",green tea,1.98%,40.00%,2.6933333333333334
+green tea,"frozen vegetables, spaghetti",1.98%,13.33%,2.6933333333333334
+frozen vegetables,"green tea, spaghetti",1.98%,25.00%,5.05
+spaghetti,"green tea, frozen vegetables",1.98%,10.00%,3.3666666666666667
+"ground beef, frozen vegetables",spaghetti,1.98%,100.00%,5.05
+"ground beef, spaghetti",frozen vegetables,1.98%,50.00%,6.3125
+"frozen vegetables, spaghetti",ground beef,1.98%,40.00%,6.733333333333333
+ground beef,"frozen vegetables, spaghetti",1.98%,33.33%,6.733333333333333
+frozen vegetables,"ground beef, spaghetti",1.98%,25.00%,6.3125
+spaghetti,"ground beef, frozen vegetables",1.98%,10.00%,5.05
+"mineral water, frozen vegetables",spaghetti,2.97%,75.00%,3.7874999999999996
+"mineral water, spaghetti",frozen vegetables,2.97%,37.50%,4.734375
+"frozen vegetables, spaghetti",mineral water,2.97%,60.00%,2.3307692307692305
+mineral water,"frozen vegetables, spaghetti",2.97%,11.54%,2.3307692307692305
+frozen vegetables,"mineral water, spaghetti",2.97%,37.50%,4.734375
+spaghetti,"mineral water, frozen vegetables",2.97%,15.00%,3.7874999999999996
+"turkey, mineral water",frozen vegetables,1.98%,50.00%,6.3125
+"turkey, frozen vegetables",mineral water,1.98%,66.67%,2.58974358974359
+"mineral water, frozen vegetables",turkey,1.98%,50.00%,5.611111111111112
+turkey,"mineral water, frozen vegetables",1.98%,22.22%,5.611111111111112
+mineral water,"turkey, frozen vegetables",1.98%,7.69%,2.58974358974359
+frozen vegetables,"turkey, mineral water",1.98%,25.00%,6.3125
+"mineral water, milk",ground beef,1.98%,66.67%,11.222222222222223
+"mineral water, ground beef",milk,1.98%,40.00%,5.7714285714285705
+"ground beef, milk",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"ground beef, milk",1.98%,7.69%,3.8846153846153846
+milk,"mineral water, ground beef",1.98%,28.57%,5.7714285714285705
+ground beef,"mineral water, milk",1.98%,33.33%,11.222222222222223
+"ground beef, milk",spaghetti,1.98%,100.00%,5.05
+"ground beef, spaghetti",milk,1.98%,50.00%,7.2142857142857135
+"milk, spaghetti",ground beef,1.98%,50.00%,8.416666666666668
+ground beef,"milk, spaghetti",1.98%,33.33%,8.416666666666668
+milk,"ground beef, spaghetti",1.98%,28.57%,7.2142857142857135
+spaghetti,"ground beef, milk",1.98%,10.00%,5.05
+"mineral water, spaghetti",ground beef,2.97%,37.50%,6.3125
+"mineral water, ground beef",spaghetti,2.97%,60.00%,3.03
+"ground beef, spaghetti",mineral water,2.97%,75.00%,2.9134615384615383
+mineral water,"ground beef, spaghetti",2.97%,11.54%,2.9134615384615383
+spaghetti,"mineral water, ground beef",2.97%,15.00%,3.03
+ground beef,"mineral water, spaghetti",2.97%,50.00%,6.3125
+"honey, shrimp",low fat yogurt,1.98%,66.67%,8.416666666666668
+"honey, low fat yogurt",shrimp,1.98%,100.00%,16.833333333333336
+"shrimp, low fat yogurt",honey,1.98%,100.00%,20.2
+honey,"shrimp, low fat yogurt",1.98%,40.00%,20.2
+shrimp,"honey, low fat yogurt",1.98%,33.33%,16.833333333333336
+low fat yogurt,"honey, shrimp",1.98%,25.00%,8.416666666666668
+"mineral water, milk",spaghetti,1.98%,66.67%,3.3666666666666667
+"mineral water, spaghetti",milk,1.98%,25.00%,3.6071428571428568
+milk,"mineral water, spaghetti",1.98%,28.57%,3.6071428571428568
+spaghetti,"mineral water, milk",1.98%,10.00%,3.3666666666666667
+"milk, soup",spaghetti,1.98%,100.00%,5.05
+"milk, spaghetti",soup,1.98%,50.00%,5.611111111111112
+"soup, spaghetti",milk,1.98%,100.00%,14.428571428571427
+milk,"soup, spaghetti",1.98%,28.57%,14.428571428571427
+soup,"milk, spaghetti",1.98%,22.22%,5.611111111111112
+spaghetti,"milk, soup",1.98%,10.00%,5.05
+"mineral water, shrimp",olive oil,1.98%,100.00%,33.66666666666667
+"mineral water, olive oil",shrimp,1.98%,66.67%,11.222222222222223
+"shrimp, olive oil",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"shrimp, olive oil",1.98%,7.69%,3.8846153846153846
+shrimp,"mineral water, olive oil",1.98%,33.33%,11.222222222222223
+olive oil,"mineral water, shrimp",1.98%,66.67%,33.66666666666667
+"mineral water, olive oil",spaghetti,1.98%,66.67%,3.3666666666666667
+"mineral water, spaghetti",olive oil,1.98%,25.00%,8.416666666666668
+"olive oil, spaghetti",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"olive oil, spaghetti",1.98%,7.69%,3.8846153846153846
+olive oil,"mineral water, spaghetti",1.98%,66.67%,8.416666666666668
+spaghetti,"mineral water, olive oil",1.98%,10.00%,3.3666666666666667
+"mineral water, salmon",spaghetti,1.98%,50.00%,2.525
+"mineral water, spaghetti",salmon,1.98%,25.00%,5.05
+"salmon, spaghetti",mineral water,1.98%,66.67%,2.58974358974359
+mineral water,"salmon, spaghetti",1.98%,7.69%,2.58974358974359
+salmon,"mineral water, spaghetti",1.98%,40.00%,5.05
+spaghetti,"mineral water, salmon",1.98%,10.00%,2.525
+"mineral water, spaghetti",tomatoes,1.98%,25.00%,8.416666666666668
+"mineral water, tomatoes",spaghetti,1.98%,100.00%,5.05
+"spaghetti, tomatoes",mineral water,1.98%,100.00%,3.8846153846153846
+mineral water,"spaghetti, tomatoes",1.98%,7.69%,3.8846153846153846
+spaghetti,"mineral water, tomatoes",1.98%,10.00%,5.05
+tomatoes,"mineral water, spaghetti",1.98%,66.67%,8.416666666666668
+"turkey, mineral water",spaghetti,1.98%,50.00%,2.525
+"turkey, spaghetti",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, spaghetti",turkey,1.98%,25.00%,2.805555555555556
+turkey,"mineral water, spaghetti",1.98%,22.22%,2.805555555555556
+mineral water,"turkey, spaghetti",1.98%,7.69%,3.8846153846153846
+spaghetti,"turkey, mineral water",1.98%,10.00%,2.525
+"turkey, mineral water",tomatoes,1.98%,50.00%,16.833333333333336
+"turkey, tomatoes",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, tomatoes",turkey,1.98%,100.00%,11.222222222222223
+turkey,"mineral water, tomatoes",1.98%,22.22%,11.222222222222223
+mineral water,"turkey, tomatoes",1.98%,7.69%,3.8846153846153846
+tomatoes,"turkey, mineral water",1.98%,66.67%,16.833333333333336
+"turkey, spaghetti",tomatoes,1.98%,100.00%,33.66666666666667
+"turkey, tomatoes",spaghetti,1.98%,100.00%,5.05
+"spaghetti, tomatoes",turkey,1.98%,100.00%,11.222222222222223
+turkey,"spaghetti, tomatoes",1.98%,22.22%,11.222222222222223
+spaghetti,"turkey, tomatoes",1.98%,10.00%,5.05
+tomatoes,"turkey, spaghetti",1.98%,66.67%,33.66666666666667
+"mineral water, salmon, black tea",spaghetti,1.98%,100.00%,5.05
+"mineral water, salmon, spaghetti",black tea,1.98%,100.00%,33.66666666666667
+"mineral water, black tea, spaghetti",salmon,1.98%,100.00%,20.2
+"salmon, black tea, spaghetti",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, salmon","black tea, spaghetti",1.98%,50.00%,25.25
+"mineral water, black tea","salmon, spaghetti",1.98%,100.00%,33.66666666666667
+"mineral water, spaghetti","salmon, black tea",1.98%,25.00%,12.625
+"salmon, black tea","mineral water, spaghetti",1.98%,100.00%,12.625
+"salmon, spaghetti","mineral water, black tea",1.98%,66.67%,33.66666666666667
+"black tea, spaghetti","mineral water, salmon",1.98%,100.00%,25.25
+mineral water,"salmon, black tea, spaghetti",1.98%,7.69%,3.8846153846153846
+salmon,"mineral water, black tea, spaghetti",1.98%,40.00%,20.2
+black tea,"mineral water, salmon, spaghetti",1.98%,66.67%,33.66666666666667
+spaghetti,"mineral water, salmon, black tea",1.98%,10.00%,5.05
+"mineral water, burgers, cooking oil",eggs,1.98%,100.00%,5.315789473684211
+"mineral water, cooking oil, eggs",burgers,1.98%,100.00%,10.1
+"mineral water, burgers, eggs",cooking oil,1.98%,66.67%,16.833333333333336
+"cooking oil, burgers, eggs",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, cooking oil","burgers, eggs",1.98%,66.67%,13.466666666666667
+"mineral water, burgers","cooking oil, eggs",1.98%,66.67%,33.66666666666667
+"mineral water, eggs","cooking oil, burgers",1.98%,28.57%,14.428571428571427
+"cooking oil, burgers","mineral water, eggs",1.98%,100.00%,14.428571428571427
+"cooking oil, eggs","mineral water, burgers",1.98%,100.00%,33.66666666666667
+"burgers, eggs","mineral water, cooking oil",1.98%,40.00%,13.466666666666667
+mineral water,"cooking oil, burgers, eggs",1.98%,7.69%,3.8846153846153846
+cooking oil,"mineral water, burgers, eggs",1.98%,50.00%,16.833333333333336
+burgers,"mineral water, cooking oil, eggs",1.98%,20.00%,10.1
+eggs,"mineral water, burgers, cooking oil",1.98%,10.53%,5.31578947368421
+"mineral water, herb & pepper, burgers",eggs,1.98%,100.00%,5.315789473684211
+"mineral water, herb & pepper, eggs",burgers,1.98%,100.00%,10.1
+"mineral water, burgers, eggs",herb & pepper,1.98%,66.67%,13.466666666666667
+"herb & pepper, burgers, eggs",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, herb & pepper","burgers, eggs",1.98%,66.67%,13.466666666666667
+"mineral water, burgers","herb & pepper, eggs",1.98%,66.67%,33.66666666666667
+"mineral water, eggs","herb & pepper, burgers",1.98%,28.57%,14.428571428571427
+"herb & pepper, burgers","mineral water, eggs",1.98%,100.00%,14.428571428571427
+"herb & pepper, eggs","mineral water, burgers",1.98%,100.00%,33.66666666666667
+"burgers, eggs","mineral water, herb & pepper",1.98%,40.00%,13.466666666666667
+mineral water,"herb & pepper, burgers, eggs",1.98%,7.69%,3.8846153846153846
+herb & pepper,"mineral water, burgers, eggs",1.98%,40.00%,13.466666666666667
+burgers,"mineral water, herb & pepper, eggs",1.98%,20.00%,10.1
+eggs,"mineral water, herb & pepper, burgers",1.98%,10.53%,5.31578947368421
+"ground beef, chocolate, frozen vegetables",spaghetti,1.98%,100.00%,5.05
+"ground beef, chocolate, spaghetti",frozen vegetables,1.98%,100.00%,12.625
+"ground beef, frozen vegetables, spaghetti",chocolate,1.98%,100.00%,7.769230769230769
+"chocolate, frozen vegetables, spaghetti",ground beef,1.98%,100.00%,16.833333333333336
+"ground beef, chocolate","frozen vegetables, spaghetti",1.98%,100.00%,20.2
+"ground beef, frozen vegetables","chocolate, spaghetti",1.98%,100.00%,25.25
+"ground beef, spaghetti","chocolate, frozen vegetables",1.98%,50.00%,16.833333333333336
+"chocolate, frozen vegetables","ground beef, spaghetti",1.98%,66.67%,16.833333333333336
+"chocolate, spaghetti","ground beef, frozen vegetables",1.98%,50.00%,25.25
+"frozen vegetables, spaghetti","ground beef, chocolate",1.98%,40.00%,20.2
+ground beef,"chocolate, frozen vegetables, spaghetti",1.98%,33.33%,16.833333333333336
+chocolate,"ground beef, frozen vegetables, spaghetti",1.98%,15.38%,7.769230769230769
+frozen vegetables,"ground beef, chocolate, spaghetti",1.98%,25.00%,12.625
+spaghetti,"ground beef, chocolate, frozen vegetables",1.98%,10.00%,5.05
+"frozen smoothie, mineral water, escalope",spaghetti,1.98%,100.00%,5.05
+"frozen smoothie, mineral water, spaghetti",escalope,1.98%,100.00%,14.428571428571427
+"frozen smoothie, escalope, spaghetti",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, escalope, spaghetti",frozen smoothie,1.98%,100.00%,25.25
+"frozen smoothie, mineral water","escalope, spaghetti",1.98%,66.67%,22.444444444444446
+"frozen smoothie, escalope","mineral water, spaghetti",1.98%,100.00%,12.625
+"frozen smoothie, spaghetti","mineral water, escalope",1.98%,100.00%,50.5
+"mineral water, escalope","frozen smoothie, spaghetti",1.98%,100.00%,50.5
+"mineral water, spaghetti","frozen smoothie, escalope",1.98%,25.00%,12.625
+"escalope, spaghetti","frozen smoothie, mineral water",1.98%,66.67%,22.444444444444446
+frozen smoothie,"mineral water, escalope, spaghetti",1.98%,50.00%,25.25
+mineral water,"frozen smoothie, escalope, spaghetti",1.98%,7.69%,3.8846153846153846
+escalope,"frozen smoothie, mineral water, spaghetti",1.98%,28.57%,14.428571428571427
+spaghetti,"frozen smoothie, mineral water, escalope",1.98%,10.00%,5.05
+"mineral water, fresh tuna, frozen vegetables",spaghetti,1.98%,100.00%,5.05
+"mineral water, fresh tuna, spaghetti",frozen vegetables,1.98%,66.67%,8.416666666666668
+"mineral water, frozen vegetables, spaghetti",fresh tuna,1.98%,66.67%,16.833333333333336
+"fresh tuna, frozen vegetables, spaghetti",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, fresh tuna","frozen vegetables, spaghetti",1.98%,50.00%,10.1
+"mineral water, frozen vegetables","fresh tuna, spaghetti",1.98%,50.00%,16.833333333333336
+"mineral water, spaghetti","fresh tuna, frozen vegetables",1.98%,25.00%,12.625
+"fresh tuna, frozen vegetables","mineral water, spaghetti",1.98%,100.00%,12.625
+"fresh tuna, spaghetti","mineral water, frozen vegetables",1.98%,66.67%,16.833333333333336
+"frozen vegetables, spaghetti","mineral water, fresh tuna",1.98%,40.00%,10.1
+mineral water,"fresh tuna, frozen vegetables, spaghetti",1.98%,7.69%,3.8846153846153846
+fresh tuna,"mineral water, frozen vegetables, spaghetti",1.98%,50.00%,16.833333333333336
+frozen vegetables,"mineral water, fresh tuna, spaghetti",1.98%,25.00%,8.416666666666668
+spaghetti,"mineral water, fresh tuna, frozen vegetables",1.98%,10.00%,5.05
+"mineral water, fresh tuna, spaghetti",tomatoes,1.98%,66.67%,22.444444444444446
+"mineral water, fresh tuna, tomatoes",spaghetti,1.98%,100.00%,5.05
+"mineral water, spaghetti, tomatoes",fresh tuna,1.98%,100.00%,25.25
+"fresh tuna, spaghetti, tomatoes",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, fresh tuna","spaghetti, tomatoes",1.98%,50.00%,25.25
+"mineral water, spaghetti","fresh tuna, tomatoes",1.98%,25.00%,12.625
+"mineral water, tomatoes","fresh tuna, spaghetti",1.98%,100.00%,33.66666666666667
+"fresh tuna, spaghetti","mineral water, tomatoes",1.98%,66.67%,33.66666666666667
+"fresh tuna, tomatoes","mineral water, spaghetti",1.98%,100.00%,12.625
+"spaghetti, tomatoes","mineral water, fresh tuna",1.98%,100.00%,25.25
+mineral water,"fresh tuna, spaghetti, tomatoes",1.98%,7.69%,3.8846153846153846
+fresh tuna,"mineral water, spaghetti, tomatoes",1.98%,50.00%,25.25
+spaghetti,"mineral water, fresh tuna, tomatoes",1.98%,10.00%,5.05
+tomatoes,"mineral water, fresh tuna, spaghetti",1.98%,66.67%,22.444444444444446
+"turkey, mineral water, fresh tuna",spaghetti,1.98%,100.00%,5.05
+"turkey, mineral water, spaghetti",fresh tuna,1.98%,100.00%,25.25
+"turkey, fresh tuna, spaghetti",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, fresh tuna, spaghetti",turkey,1.98%,66.67%,7.481481481481483
+"turkey, mineral water","fresh tuna, spaghetti",1.98%,50.00%,16.833333333333336
+"turkey, fresh tuna","mineral water, spaghetti",1.98%,100.00%,12.625
+"turkey, spaghetti","mineral water, fresh tuna",1.98%,100.00%,25.25
+"mineral water, fresh tuna","turkey, spaghetti",1.98%,50.00%,25.25
+"mineral water, spaghetti","turkey, fresh tuna",1.98%,25.00%,12.625
+"fresh tuna, spaghetti","turkey, mineral water",1.98%,66.67%,16.833333333333336
+turkey,"mineral water, fresh tuna, spaghetti",1.98%,22.22%,7.481481481481483
+mineral water,"turkey, fresh tuna, spaghetti",1.98%,7.69%,3.8846153846153846
+fresh tuna,"turkey, mineral water, spaghetti",1.98%,50.00%,25.25
+spaghetti,"turkey, mineral water, fresh tuna",1.98%,10.00%,5.05
+"turkey, mineral water, fresh tuna",tomatoes,1.98%,100.00%,33.66666666666667
+"turkey, mineral water, tomatoes",fresh tuna,1.98%,100.00%,25.25
+"turkey, fresh tuna, tomatoes",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, fresh tuna, tomatoes",turkey,1.98%,100.00%,11.222222222222223
+"turkey, mineral water","fresh tuna, tomatoes",1.98%,50.00%,25.25
+"turkey, fresh tuna","mineral water, tomatoes",1.98%,100.00%,50.5
+"turkey, tomatoes","mineral water, fresh tuna",1.98%,100.00%,25.25
+"mineral water, fresh tuna","turkey, tomatoes",1.98%,50.00%,25.25
+"mineral water, tomatoes","turkey, fresh tuna",1.98%,100.00%,50.5
+"fresh tuna, tomatoes","turkey, mineral water",1.98%,100.00%,25.25
+turkey,"mineral water, fresh tuna, tomatoes",1.98%,22.22%,11.222222222222223
+mineral water,"turkey, fresh tuna, tomatoes",1.98%,7.69%,3.8846153846153846
+fresh tuna,"turkey, mineral water, tomatoes",1.98%,50.00%,25.25
+tomatoes,"turkey, mineral water, fresh tuna",1.98%,66.67%,33.66666666666667
+"turkey, fresh tuna, spaghetti",tomatoes,1.98%,100.00%,33.66666666666667
+"turkey, fresh tuna, tomatoes",spaghetti,1.98%,100.00%,5.05
+"turkey, spaghetti, tomatoes",fresh tuna,1.98%,100.00%,25.25
+"fresh tuna, spaghetti, tomatoes",turkey,1.98%,100.00%,11.222222222222223
+"turkey, fresh tuna","spaghetti, tomatoes",1.98%,100.00%,50.5
+"turkey, spaghetti","fresh tuna, tomatoes",1.98%,100.00%,50.5
+"turkey, tomatoes","fresh tuna, spaghetti",1.98%,100.00%,33.66666666666667
+"fresh tuna, spaghetti","turkey, tomatoes",1.98%,66.67%,33.66666666666667
+"fresh tuna, tomatoes","turkey, spaghetti",1.98%,100.00%,50.5
+"spaghetti, tomatoes","turkey, fresh tuna",1.98%,100.00%,50.5
+turkey,"fresh tuna, spaghetti, tomatoes",1.98%,22.22%,11.222222222222223
+fresh tuna,"turkey, spaghetti, tomatoes",1.98%,50.00%,25.25
+spaghetti,"turkey, fresh tuna, tomatoes",1.98%,10.00%,5.05
+tomatoes,"turkey, fresh tuna, spaghetti",1.98%,66.67%,33.66666666666667
+"mineral water, milk, spaghetti",ground beef,1.98%,100.00%,16.833333333333336
+"mineral water, milk, ground beef",spaghetti,1.98%,100.00%,5.05
+"mineral water, spaghetti, ground beef",milk,1.98%,66.67%,9.619047619047619
+"ground beef, milk, spaghetti",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, milk","ground beef, spaghetti",1.98%,66.67%,16.833333333333336
+"mineral water, spaghetti","ground beef, milk",1.98%,25.00%,12.625
+"mineral water, ground beef","milk, spaghetti",1.98%,40.00%,10.1
+"milk, spaghetti","mineral water, ground beef",1.98%,50.00%,10.1
+"ground beef, milk","mineral water, spaghetti",1.98%,100.00%,12.625
+"ground beef, spaghetti","mineral water, milk",1.98%,50.00%,16.833333333333336
+mineral water,"ground beef, milk, spaghetti",1.98%,7.69%,3.8846153846153846
+milk,"mineral water, spaghetti, ground beef",1.98%,28.57%,9.619047619047619
+spaghetti,"mineral water, milk, ground beef",1.98%,10.00%,5.05
+ground beef,"mineral water, milk, spaghetti",1.98%,33.33%,16.833333333333336
+"turkey, mineral water, spaghetti",tomatoes,1.98%,100.00%,33.66666666666667
+"turkey, mineral water, tomatoes",spaghetti,1.98%,100.00%,5.05
+"turkey, spaghetti, tomatoes",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, spaghetti, tomatoes",turkey,1.98%,100.00%,11.222222222222223
+"turkey, mineral water","spaghetti, tomatoes",1.98%,50.00%,25.25
+"turkey, spaghetti","mineral water, tomatoes",1.98%,100.00%,50.5
+"turkey, tomatoes","mineral water, spaghetti",1.98%,100.00%,12.625
+"mineral water, spaghetti","turkey, tomatoes",1.98%,25.00%,12.625
+"mineral water, tomatoes","turkey, spaghetti",1.98%,100.00%,50.5
+"spaghetti, tomatoes","turkey, mineral water",1.98%,100.00%,25.25
+turkey,"mineral water, spaghetti, tomatoes",1.98%,22.22%,11.222222222222223
+mineral water,"turkey, spaghetti, tomatoes",1.98%,7.69%,3.8846153846153846
+spaghetti,"turkey, mineral water, tomatoes",1.98%,10.00%,5.05
+tomatoes,"turkey, mineral water, spaghetti",1.98%,66.67%,33.66666666666667
+"turkey, fresh tuna, spaghetti, tomatoes",mineral water,1.98%,100.00%,3.8846153846153846
+"mineral water, fresh tuna, spaghetti, tomatoes",turkey,1.98%,100.00%,11.222222222222223
+"turkey, mineral water, fresh tuna, spaghetti",tomatoes,1.98%,100.00%,33.66666666666667
+"turkey, mineral water, spaghetti, tomatoes",fresh tuna,1.98%,100.00%,25.25
+"turkey, mineral water, fresh tuna, tomatoes",spaghetti,1.98%,100.00%,5.05
+"fresh tuna, spaghetti, tomatoes","turkey, mineral water",1.98%,100.00%,25.25
+"turkey, fresh tuna, spaghetti","mineral water, tomatoes",1.98%,100.00%,50.5
+"mineral water, fresh tuna, spaghetti","turkey, tomatoes",1.98%,66.67%,33.66666666666667
+"turkey, spaghetti, tomatoes","mineral water, fresh tuna",1.98%,100.00%,25.25
+"mineral water, spaghetti, tomatoes","turkey, fresh tuna",1.98%,100.00%,50.5
+"turkey, mineral water, spaghetti","fresh tuna, tomatoes",1.98%,100.00%,50.5
+"turkey, fresh tuna, tomatoes","mineral water, spaghetti",1.98%,100.00%,12.625
+"mineral water, fresh tuna, tomatoes","turkey, spaghetti",1.98%,100.00%,50.5
+"turkey, mineral water, fresh tuna","spaghetti, tomatoes",1.98%,100.00%,50.5
+"turkey, mineral water, tomatoes","fresh tuna, spaghetti",1.98%,100.00%,33.66666666666667
+"fresh tuna, spaghetti","turkey, mineral water, tomatoes",1.98%,66.67%,33.66666666666667
+"spaghetti, tomatoes","turkey, mineral water, fresh tuna",1.98%,100.00%,50.5
+"turkey, spaghetti","mineral water, fresh tuna, tomatoes",1.98%,100.00%,50.5
+"mineral water, spaghetti","turkey, fresh tuna, tomatoes",1.98%,25.00%,12.625
+"fresh tuna, tomatoes","turkey, mineral water, spaghetti",1.98%,100.00%,50.5
+"turkey, fresh tuna","mineral water, spaghetti, tomatoes",1.98%,100.00%,50.5
+"mineral water, fresh tuna","turkey, spaghetti, tomatoes",1.98%,50.00%,25.25
+"turkey, tomatoes","mineral water, fresh tuna, spaghetti",1.98%,100.00%,33.66666666666667
+"mineral water, tomatoes","turkey, fresh tuna, spaghetti",1.98%,100.00%,50.5
+"turkey, mineral water","fresh tuna, spaghetti, tomatoes",1.98%,50.00%,25.25
+spaghetti,"turkey, mineral water, fresh tuna, tomatoes",1.98%,10.00%,5.05
+fresh tuna,"turkey, mineral water, spaghetti, tomatoes",1.98%,50.00%,25.25
+tomatoes,"turkey, mineral water, fresh tuna, spaghetti",1.98%,66.67%,33.66666666666667
+turkey,"mineral water, fresh tuna, spaghetti, tomatoes",1.98%,22.22%,11.222222222222223
+mineral water,"turkey, fresh tuna, spaghetti, tomatoes",1.98%,7.69%,3.8846153846153846

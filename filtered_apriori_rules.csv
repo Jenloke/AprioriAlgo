@@ -1,0 +1,53 @@
+lhs,rhs,support,confidence,lift
+body spray,green tea,2.97%,75.00%,5.05
+body spray,soup,2.97%,75.00%,8.416666666666668
+soup,body spray,2.97%,33.33%,8.416666666666666
+burgers,eggs,4.95%,50.00%,2.6578947368421053
+burgers,french fries,2.97%,30.00%,2.164285714285714
+burgers,green tea,3.96%,40.00%,2.6933333333333334
+chicken,mineral water,2.97%,60.00%,2.3307692307692305
+frozen vegetables,chocolate,2.97%,37.50%,2.9134615384615383
+cooking oil,mineral water,2.97%,75.00%,2.9134615384615383
+turkey,eggs,3.96%,44.44%,2.3625730994152048
+energy bar,mineral water,3.96%,57.14%,2.2197802197802194
+escalope,spaghetti,2.97%,42.86%,2.1642857142857137
+fresh tuna,mineral water,3.96%,100.00%,3.8846153846153846
+fresh tuna,spaghetti,2.97%,75.00%,3.7874999999999996
+frozen smoothie,mineral water,2.97%,75.00%,2.9134615384615383
+frozen vegetables,green tea,2.97%,37.50%,2.525
+frozen vegetables,spaghetti,4.95%,62.50%,3.15625
+turkey,frozen vegetables,2.97%,33.33%,4.208333333333333
+frozen vegetables,turkey,2.97%,37.50%,4.208333333333334
+soup,green tea,2.97%,33.33%,2.2444444444444445
+ground beef,mineral water,4.95%,83.33%,3.2371794871794872
+ground beef,spaghetti,3.96%,66.67%,3.3666666666666667
+herb & pepper,mineral water,2.97%,60.00%,2.3307692307692305
+honey,shrimp,2.97%,60.00%,10.1
+shrimp,honey,2.97%,50.00%,10.1
+milk,spaghetti,3.96%,57.14%,2.8857142857142852
+olive oil,mineral water,2.97%,100.00%,3.8846153846153846
+salmon,mineral water,3.96%,80.00%,3.1076923076923073
+whole wheat rice,mineral water,2.97%,100.00%,3.8846153846153846
+pasta,shrimp,3.96%,100.00%,16.833333333333336
+shrimp,pasta,3.96%,66.67%,16.833333333333336
+salmon,spaghetti,2.97%,60.00%,3.03
+"mineral water, burgers",eggs,2.97%,100.00%,5.315789473684211
+"mineral water, eggs",burgers,2.97%,42.86%,4.328571428571427
+"burgers, eggs",mineral water,2.97%,60.00%,2.3307692307692305
+burgers,"mineral water, eggs",2.97%,30.00%,4.328571428571428
+"burgers, green tea",french fries,2.97%,75.00%,5.410714285714286
+"burgers, french fries",green tea,2.97%,100.00%,6.733333333333333
+"green tea, french fries",burgers,2.97%,75.00%,7.574999999999999
+burgers,"green tea, french fries",2.97%,30.00%,7.574999999999999
+"mineral water, fresh tuna",spaghetti,2.97%,75.00%,3.7874999999999996
+"mineral water, spaghetti",fresh tuna,2.97%,37.50%,9.46875
+"fresh tuna, spaghetti",mineral water,2.97%,100.00%,3.8846153846153846
+fresh tuna,"mineral water, spaghetti",2.97%,75.00%,9.46875
+"mineral water, frozen vegetables",spaghetti,2.97%,75.00%,3.7874999999999996
+"mineral water, spaghetti",frozen vegetables,2.97%,37.50%,4.734375
+"frozen vegetables, spaghetti",mineral water,2.97%,60.00%,2.3307692307692305
+frozen vegetables,"mineral water, spaghetti",2.97%,37.50%,4.734375
+"mineral water, spaghetti",ground beef,2.97%,37.50%,6.3125
+"mineral water, ground beef",spaghetti,2.97%,60.00%,3.03
+"ground beef, spaghetti",mineral water,2.97%,75.00%,2.9134615384615383
+ground beef,"mineral water, spaghetti",2.97%,50.00%,6.3125
